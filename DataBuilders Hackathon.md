@@ -49,8 +49,8 @@ Before getting started, ensure that you've already [installed Ocean.py](https://
 
 In Python console:
 ```python
-from ocean_lib.models.arguments import DataNFTArguments
-data_nft = ocean.data_nft_factory.create(DataNFTArguments('NFT1', 'NFT1'), alice)
+from ocean_lib.models.data_nft import DataNFTArguments
+data_nft = ocean.data_nft_factory.create(DataNFTArguments('NFT1', 'NFT1'), {"from": alice})
 ```
 
 #### 2.1.2 Add key-value pair to data NFT
@@ -59,9 +59,11 @@ data_nft = ocean.data_nft_factory.create(DataNFTArguments('NFT1', 'NFT1'), alice
 # Key-value pair
 key = "fav_color"
 value = b"blue"
+
 # prep key for setter
 from web3.main import Web3
 key_hash = Web3.keccak(text=key)  # Contract/ERC725 requires keccak256 hash
+
 # set
 data_nft.setNewData(key_hash, value, {"from": alice})
 ```
