@@ -1,5 +1,8 @@
-# Gitcoin Open Data Hackathon using Ocean Protocol
-In the Ocean Protocol <> Gitcoin ODC Hackathon, contestants are incentivised to use Ocean's technology to find insightful anti-Sybil algorithms and to package anti-Sybil algorithms into composable legos with a fully decentrealised approach.
+# Gitcoin OpenData Hackathon using Ocean Protocol
+
+Ocean Protocol allows for decentralized sharing of data and algorithms. Contestants are strongly incentivised to use Ocean's technology stack to create insightful anti-Sybil algorithms and to package anti-Sybil algorithms into composable legos in a fully decentrealised approach.
+
+Ocean provides a free and an easy way to decentralize access control to algorithms and/or deploy ERC725Y as soulbound tokens for preventing misuse of DAO proposal mechanisms.
 
 
 ## 0. Key Details
@@ -17,16 +20,16 @@ This readme describes 2 different ways that participants can use to get free bon
 
 ## 1. Use Ocean Market frontend
 
-Ocean Market provides a convenient interface for individuals and organizations to publish their data. Data assets can be datasets, algorithms,images, location information, audio, video, sales data, or combinations of all!
+Ocean Market provides a convenient interface to publish data assets. Data assets can be datasets, algorithms, images, location information, audio, video, sales data, or combinations of all!
 
-To publish on the Ocean Marketplace, you must first get MATIC or ETH to pay for gas fees, and host your assets on a decentralized storage like Arweave.
+To publish on the Ocean Marketplace, you must first get MATIC or ETH to pay for gas fees, and host your assets on a decentralized storage like Arweave or IPFS.
 
 To host your data assets on Arweave you have two options:
 
 1. In a webapp, using [ardrive.io](https://www.ardrive.io). [Ocean Docs](https://docs.oceanprotocol.com/using-ocean-market/asset-hosting#arweave) has more info.
 2. In code, using [pybundlr library](https://github.com/oceanprotocol/pybundlr).
 
-Once the above is completed, take the transaction ID and head over to [Ocean Market](https://market.oceanprotocol.com/publish/1) to get started with publishing. If you need more information feel free to ask for support in our dedicated [Discord channel](https://discord.gg/JK4rq7KBGh) or visit our [docs](https://docs.oceanprotocol.com/using-ocean-market/marketplace-publish-data-asset).
+Once the above is completed, take the transaction ID from your hosting service and head over to [Ocean Market](https://market.oceanprotocol.com/publish/1) to get started with publishing. Follow the steps and if you need more information feel free to ask for support in our dedicated [Discord channel](https://discord.gg/JK4rq7KBGh) or visit our [docs](https://docs.oceanprotocol.com/using-ocean-market/marketplace-publish-data-asset).
 
 
 ## 2. Use Ocean Data NFTs as ERC725Y
