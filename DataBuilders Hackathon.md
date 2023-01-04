@@ -2,13 +2,14 @@
 
 Ocean Protocol allows for decentralized sharing of data and algorithms. Contestants are strongly incentivised to use Ocean's technology stack to decentralize access control to algorithms and/or deploy ERC725Y as soulbound tokens for preventing misuse of DAO proposal mechanisms.
 
-
 ## 0. Key Details
 
+- Challenge: Creating insightful anti-Sybil algorithms and packaging them into composable legos, using decentrealised technologies. 
 - Kickoff: Jan 5th, 2023
 - Submission deadline: Tuesday Jan 31st, 2023 at 23:59 UTC
-- Challenge: Create insightful anti-Sybil algorithms and package them into composable legos in a fully decentrealised approach.
 - Total Prize pool: $40,000 in bounties
+
+NOTE: Before submitting, make sure you copy your [DID](https://docs.oceanprotocol.com/core-concepts/did-ddo#did) and attach it to your submission.
 
 **Outline of this README**
 
