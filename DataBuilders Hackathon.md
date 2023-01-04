@@ -1,14 +1,13 @@
 # Gitcoin OpenData Hackathon using Ocean Protocol
 
-Ocean Protocol allows for decentralized sharing of data and algorithms. Contestants are strongly incentivised to use Ocean's technology stack to create insightful anti-Sybil algorithms and to package anti-Sybil algorithms into composable legos in a fully decentrealised approach.
-
-Ocean provides a free and an easy way to decentralize access control to algorithms and/or deploy ERC725Y as soulbound tokens for preventing misuse of DAO proposal mechanisms.
+Ocean Protocol allows for decentralized sharing of data and algorithms. Contestants are strongly incentivised to use Ocean's technology stack to decentralize access control to algorithms and/or deploy ERC725Y as soulbound tokens for preventing misuse of DAO proposal mechanisms.
 
 
 ## 0. Key Details
 
 - Kickoff: Jan 5th, 2023
 - Submission deadline: Tuesday Jan 31st, 2023 at 23:59 UTC
+- Challenge: Create insightful anti-Sybil algorithms and package them into composable legos in a fully decentrealised approach.
 - Total Prize pool: $40,000 in bounties
 
 **Outline of this README**
