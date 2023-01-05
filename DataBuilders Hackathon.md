@@ -8,7 +8,7 @@ Ocean Protocol allows for decentralized sharing of data and algorithms. Contesta
 - Kickoff: Jan 5th, 2023
 - Submission deadline: Tuesday Jan 31st, 2023 at 23:59 UTC
 - Total Prize pool: $40,000 in bounties
-- Datasets available [here](https://market.oceanprotocol.com/asset/did:op:d4b54f5ab4f171aec585b83189931625eab3803981e9658fe472a87ddc039b0b)
+- Datasets available [here](https://bit.ly/gitcoindataset)
 
 **Outline of this README**
 
